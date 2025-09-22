@@ -12,3 +12,6 @@ The project succeeded in these things.
 ### Tools Used  
 - SolidWorks (CAD design)  
 - Laser cutting (fabrication). CO2 laser. Kerf width of aproximatly 0.25mm for 1.3mm card.  
+
+### Preview  
+![Finished Car](Photos/Real/laser_car_1.jpg)  
