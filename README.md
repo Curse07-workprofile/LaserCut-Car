@@ -1,8 +1,8 @@
 # Laser-Cut Car Project  
 
-This is a **laser-cut cardboard car** designed by Curtis Christian to demonstrate 3D CAD modelling skills and creativity.  
+This is a **Laser-cut Cardboard Car** that I designed to demonstrate 3D CAD modelling skills and creativity.  
 Needed to be cut from one A3 sheet of cardboard and be assembled to be free standing. 
-The project succeeded in these things.
+The project succeeded in these objectives.
 
 ### Contents  
 - **Photos/** → Images of the completed model.  
