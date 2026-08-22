@@ -5,7 +5,7 @@ Needed to be cut from one A3 sheet of cardboard and be assembled to be free stan
 The project succeeded in these objectives.
 
 ### Contents  
-- [Photos](./Photos/pictures.md) - Images of the completed model (click here to see CAD photos aswell)
+- [Photos](./Photos/photos.md) - Images of the completed model (click here to see CAD photos aswell)
 - [CAD Assemblies](./Model+Cut_Files/assembly(s)/) - CAD assembly files (SolidWorks assembly files)
 - [CAD Parts](./Model+Cut_Files/parts/) - CAD part files (SolidWorks part files)
 - [Lasercut Files](./Model+Cut_Files/Lasercutting_Flat.DXF) - DXF file to be loaded onto cutter
