@@ -26,7 +26,11 @@ The project succeeded in these objectives.
 
 The modelling was quite simple as it only included flat shape feature extruded to the thickness of the card itself.
 Where the challenge lay was in the assembly and the accomodation of the kerf width tolerances considerations for the actual assembly.
-This requrire a number of iterations and adjustments to get correct. Shown below is a photo of the CAD assembly from Solidworks:
+This requrire a number of iterations and adjustments to get correct; Especially the angle of the bonnet and that scoop and the wheel seating height.
+For clarity this is not a realistic design as the engine is located in the back while there is a scoop/intake thing through the bonnet.
+But it looks awesome and I'm a mechatronics major; mechanical sins of infeasibility don't faze me. 
+**To all potential employers that is a JOKE; It utilizes quantum tunneling to force air to the lone engine block, which doesn't need anything else to provide full vechical functionality.**
+Shown below is a photo of the CAD assembly from Solidworks:
 
 ---
 ![Finished Car](Photos/CAD/Laser_car_model_1.png)  
